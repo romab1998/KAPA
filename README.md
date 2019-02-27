@@ -10,12 +10,12 @@ KAPA is an implementation of the clonal selection algorithm CLONALG described in
 KAPA is unrelated to the company, academy, fabric or radio station with similar names.
 
 ## Requirements
-- Python 2.7
+- Python 3.*
 - Matplotlib
 
 ## Installation
 
-1. Install Python 2.7
+1. Install Python 3.*
 2. Install Matplotlib using `pip install matplotlib`
 
 ## Usage
