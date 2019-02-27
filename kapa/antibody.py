@@ -9,8 +9,9 @@ Represents parts of pathogens that can be recognised by antigens
 
 """
 
+
 class Antibody:
-    def __init__(self, shape = None):
+    def __init__(self, shape=None):
         if shape:
             self.shape = shape
         else:
